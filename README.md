@@ -1,3 +1,6 @@
+Design and Layout made by: [@Auskteez](https://www.behance.net/Auskteez)
+
+
 # Basic HTML, CSS and JS website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
